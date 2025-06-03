@@ -2,7 +2,9 @@
 
 https://youtu.be/94ttAKMKrkw
 
-- [ ] do the justification in ques 1.2
+# TO DO
+
+- [x] do the justification in ques 1.2
 
 - [ ] finish part 2
 
