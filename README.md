@@ -6,9 +6,9 @@ https://youtu.be/94ttAKMKrkw
 
 - [x] do the justification in ques 1.2
 
-- [ ] finish part 2
+- [x] finish part 2
 
-- [ ] do part 3
+- [] do part 3
 
 - [ ] do part 4
 
