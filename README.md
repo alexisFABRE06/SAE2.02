@@ -8,9 +8,9 @@ https://youtu.be/94ttAKMKrkw
 
 - [x] finish part 2
 
-- [ ] do part 3
+- [x] do part 3
 
-- [ ] do part 4
+- [x] do part 4
 
 - [ ] do part 5
 
